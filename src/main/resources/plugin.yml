@@ -1,0 +1,7 @@
+name: MadLad
+main: me.superischroma.madlad.MadLad
+version: 1.0
+commands:
+    madlad:
+        description: Main command for MadLad
+        usage: /<command> [help | github | feedback]
