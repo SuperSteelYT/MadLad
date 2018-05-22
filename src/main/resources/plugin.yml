@@ -1,7 +1,16 @@
 name: MadLad
 main: me.superischroma.madlad.MadLad
-version: 1.0
+version: 1.1
 commands:
     madlad:
         description: Main command for MadLad
         usage: /<command> [help | github | feedback]
+    nero:
+        description: the meme herself
+        usage: /<command> [number]
+    robin:
+        description: the meme himself oh wait nvm
+        usage: /<command> [number]
+    basedrobin:
+        description: has a very big base
+        usage: /<command>
